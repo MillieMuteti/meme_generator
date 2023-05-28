@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+nav {
+    height: 65px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: #ffffff;
+    display: flex;
+
+
+
+}
+
+.nav__title {
+    margin-left: 25px;
+}
+
+.nav__text {
+    position: absolute;
+    right: 40px;
+}
